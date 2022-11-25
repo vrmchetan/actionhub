@@ -1,1 +1,5 @@
-efrwtykytujyhtg
+lots of answers containing unrelated information (like how to create a branch) and if the answer applies, then information is missing regarding the magic parameters used. – 
+user12411795
+ Aug 20, 2020 at 21:05
+5
+my workflow is: git checkout -b branch, git push => it prints an error message containing the command you need to run. then copy/paste that command.
